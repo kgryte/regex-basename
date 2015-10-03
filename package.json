@@ -1,7 +1,7 @@
 {
   "name": "regex-basename",
   "version": "0.0.0",
-  "description": "Regular expression to capture the last part of a path.",
+  "description": "Regular expression to capture a path basename.",
   "author": {
     "name": "Athan Reines",
     "email": "kgryte@gmail.com"

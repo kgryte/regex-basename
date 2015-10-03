@@ -2,7 +2,7 @@ Basename
 ===
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coverage Status][codecov-image]][codecov-url] [![Dependencies][dependencies-image]][dependencies-url]
 
-> [Regular expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) to capture the last part of a path.
+> [Regular expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) to capture a path [basename](https://en.wikipedia.org/wiki/Basename).
 
 
 ## Installation
@@ -20,7 +20,7 @@ var re = require( 'regex-basename' );
 
 #### re
 
-[Regular expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) to capture the last part of a path. 
+[Regular expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) to capture a path [basename](https://en.wikipedia.org/wiki/Basename). 
 
 ``` javascript
 var base;
